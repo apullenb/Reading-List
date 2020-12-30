@@ -5,5 +5,5 @@
 https://apullenb.github.io/Reading-List/index.html
 
 ## Purpose
-This basic app was built with the intention of demonstrating the use of JavaScript classes, and uses local storage for persistance. A future version will be built using React and will include a database for persistance, and give the user the ability to create an account and login. 
+This basic app was built to demonstrate the use of JavaScript classes, and uses local storage for persistence. A future version will be built using React and will include a database for persistance, and give the user the ability to create an account and login. 
 
